@@ -1,0 +1,8 @@
+# ignore virtual env
+venv/
+
+# ignore vscode folder
+.vscode/
+
+# ignore python bin cache
+__pycache__/
